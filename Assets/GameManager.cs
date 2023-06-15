@@ -13,5 +13,6 @@ public class GameManager : MonoBehaviour
     {
         taps = 0;
         multiplier = 1;
+        
     }
 }
